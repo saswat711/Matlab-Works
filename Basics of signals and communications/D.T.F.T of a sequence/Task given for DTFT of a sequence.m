@@ -1,0 +1,1 @@
+>Evaluate DTFT of the sequence x(n)= {1,2 ,3,4,5} and plot its magnitude,angle, real and imaginary parts.

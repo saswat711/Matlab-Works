@@ -1,5 +1,4 @@
-#This Repository Contains MATLAB file used in my Engineering Course
+#This Repository Contains MATLAB file I made for communicaton and digital signal processing 
 #It's still undergoing
 
-#Contents:
->Z-Transformation
+>The basic part is completed
